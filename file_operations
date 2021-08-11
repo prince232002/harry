@@ -1,0 +1,8 @@
+# file to basics 
+# "r"- Open file for reading
+# "w"-Open file for writing
+# "x"-Create file if not exists
+# "a"-Add more content to a file 
+# "t"-Text mode 
+# "b"-binary mode
+# "+"-read and write
