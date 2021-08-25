@@ -19,4 +19,3 @@ if __name__ == '__main__':
     some_work(3)
     print("Called again")
 
-print
