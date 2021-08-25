@@ -1,4 +1,7 @@
 
+from typing import get_args
+
+
 class Employee:
     no_of_leaves = 8 #property of class 
     pass
@@ -30,3 +33,4 @@ print(rohan.no_of_leaves)
  employee.no_of_leaves
 print(Employee.no_of_leaves)
  """
+

@@ -36,7 +36,6 @@ class TopTen:
 
 
 values = TopTen()
-
 print(next(values))
 
 # print(values.__next__())
