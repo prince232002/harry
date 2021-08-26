@@ -17,4 +17,7 @@ if __name__ == '__main__':
 
 """remember _name_ ==_main_ 
 only if you running the program from the same file not from amy 
-any diff file by importing """
+any diff file by importing 
+otherwise _name_ will print module name 
+#if we write name = main then the code inside it can be access from the main file not other file 
+# meant that other will import as module """
